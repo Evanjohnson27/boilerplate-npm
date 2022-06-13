@@ -1,5 +1,6 @@
 {
-	"name": "Evan-Johnson",
+	"author": "Evan Johnson",
+	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
@@ -9,6 +10,6 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/Evanjohnson27/boilerplate-npm"
+		"url": "https://idontknow/todo.git"
 	}
 }
